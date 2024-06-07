@@ -1,6 +1,7 @@
 static/songs/**/*
 node_modules/**/*
 static/scores.json
-
+package-lock.json
 !static/songs/put_your_songs_here.txt
-/.idea/
+.idea
+.vscode

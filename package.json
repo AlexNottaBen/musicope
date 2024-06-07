@@ -6,8 +6,12 @@
     "type": "git",
     "url": "https://github.com/musicope/game"
   },
+  "main": "index.js",
   "author": "Oldrich Svec",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "devDependencies": {
     "@types/express": "^4.11.1",
     "@types/jquery": "^3.3.1",
